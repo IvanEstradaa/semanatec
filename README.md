@@ -1,2 +1,4 @@
-# semanatec
-Análisis de datos sobre
+# Semana Tec
+Análisis de datos sobre USA Real State.
+
+
