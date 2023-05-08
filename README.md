@@ -4,7 +4,7 @@ Equipo 3
 ## Integrantes
     Paul Enrique
     Salvador
-    Fernanda
+    Fernanda Díaz
     Iván
     Brizeth Alejandra
     
