@@ -8,6 +8,5 @@ Equipo 3
     Iván
     Brizeth Alejandra
     
-## Dataset
 ## Análisis de datos sobre USA Real State.
 [Fuente de los datos](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset)
