@@ -5,7 +5,7 @@ Equipo 3
     Paul Enrique
     Salvador
     Fernanda Díaz
-    Iván
+    Iván Estrada
     Brizeth Alejandra
     
 ## Introducción
