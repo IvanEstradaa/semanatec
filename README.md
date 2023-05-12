@@ -14,4 +14,5 @@ El dataset contiene un listado de inmobiliarías seccionadas por estado y códig
 se recabó de realtor.com.
 
 ## Análisis de datos sobre USA Real State.
+[Análisis del dataset](https://github.com/IvanEstradaa/semanatec/blob/c6184b1fe583aecb607cf1dfae8fce948454adb5/ActividadFinal.ipynb)
 [Fuente de los datos](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset)
